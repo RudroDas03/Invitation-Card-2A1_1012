@@ -1,0 +1,32 @@
+Body{
+    text-align: center;
+    background-color: rgb(242, 234, 230) ;
+    
+}
+ 
+h1{
+    color: rgb(85, 3, 3);
+}
+h2{
+    color: darkgoldenrod;
+}
+h3{
+    color: darkgoldenrod;
+}
+ol{
+  display: inline-block;
+  text-align: left;
+}
+ul{
+  display: inline-block;
+}
+section {
+    text-align: center;
+    display: inline-block;
+    background: white;
+    border: 3px solid rgb(197, 118, 28);
+    border-radius: 20px; 
+    width: 500px;
+    height: auto;
+
+}
